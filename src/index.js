@@ -121,6 +121,6 @@ ReactDOM.render(
     document.getElementById('root')
 );
 
-function testCommit() {
-    console.log('test commit');
+function testCommit2() {
+    console.log('test commit2');
 }
