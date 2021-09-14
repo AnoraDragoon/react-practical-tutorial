@@ -120,3 +120,7 @@ ReactDOM.render(
     <Game />,
     document.getElementById('root')
 );
+
+function testCommit() {
+    console.log('test commit');
+}
